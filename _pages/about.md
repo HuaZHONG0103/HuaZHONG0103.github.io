@@ -12,7 +12,7 @@ redirect_from:
 **Postdoctoral Research Fellow**  
 **LSU Health Sciences Center**
 
-**Statistical Genetics | Multi-omics | AI | Cancer Genomics**
+**Statistical Genetics / Multi-omics / AI-assisted Genomics / Cancer Genomics**
 
 I am a postdoctoral research fellow at LSU Health Sciences Center. My research focuses on statistical genetics, multi-omics integration, artificial intelligence, and cancer genomics. I develop and apply computational approaches to identify disease-associated genes, regulatory mechanisms, molecular biomarkers, and population-specific biological pathways.
 
